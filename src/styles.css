@@ -46,6 +46,9 @@ li:first-letter {
   height: 64px;
   width: 64px;
 }
+a {
+  text-decoration: none;
+}
 
 .weather-temperature strong {
   color: rgb(33, 33, 33);
